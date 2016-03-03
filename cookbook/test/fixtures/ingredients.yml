@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item1: MyString
+  qty1: 1
+  measure1: MyString
+  item2: MyString
+  qty2: 1
+  measure2: MyString
+
+two:
+  item1: MyString
+  qty1: 1
+  measure1: MyString
+  item2: MyString
+  qty2: 1
+  measure2: MyString
